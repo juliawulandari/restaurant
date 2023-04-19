@@ -1,0 +1,6 @@
+Week 11 = requests + bs4 : Homework_request.py
+          selenium + bs4 : Homework_selenium.py
+
+          chromedriver.exe dihapus karena file terlalu besar.
+
+Week 13 =  homework_launchpad.py
